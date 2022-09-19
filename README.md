@@ -1,4 +1,4 @@
-# POD_im
+# pod
  Proper orthogonal decomposition algorithm, in this case, applied to Mie scattering and OH* chemiluminescence images of two-phase flames. 
 
 <i>Example:</i>
